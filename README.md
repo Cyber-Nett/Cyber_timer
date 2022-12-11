@@ -1,2 +1,2 @@
 # Cyber_timer
-Timer
+Timer using python
